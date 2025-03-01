@@ -1,0 +1,2 @@
+Hallo Git! > a.txt
+echo Noch eine Datei
